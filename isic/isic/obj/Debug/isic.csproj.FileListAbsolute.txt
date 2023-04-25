@@ -1,0 +1,10 @@
+X:\PRG\isic\isic\bin\Debug\isic.exe.config
+X:\PRG\isic\isic\bin\Debug\isic.exe
+X:\PRG\isic\isic\bin\Debug\isic.pdb
+X:\PRG\isic\isic\obj\Debug\isic.csproj.AssemblyReference.cache
+X:\PRG\isic\isic\obj\Debug\isic.Form1.resources
+X:\PRG\isic\isic\obj\Debug\isic.Properties.Resources.resources
+X:\PRG\isic\isic\obj\Debug\isic.csproj.GenerateResource.cache
+X:\PRG\isic\isic\obj\Debug\isic.csproj.CoreCompileInputs.cache
+X:\PRG\isic\isic\obj\Debug\isic.exe
+X:\PRG\isic\isic\obj\Debug\isic.pdb

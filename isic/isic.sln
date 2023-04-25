@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isic", "isic\isic.csproj", "{D14829F4-6594-4E55-BB67-ADBF5CF1413E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14829F4-6594-4E55-BB67-ADBF5CF1413E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14829F4-6594-4E55-BB67-ADBF5CF1413E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14829F4-6594-4E55-BB67-ADBF5CF1413E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14829F4-6594-4E55-BB67-ADBF5CF1413E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D57BD286-92B2-4F09-A504-1BF42CAB71A7}
+	EndGlobalSection
+EndGlobal
